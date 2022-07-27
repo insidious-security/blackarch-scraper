@@ -27,6 +27,8 @@ psql -h localhost -U postgres
 # Create the pentest database
 create database pentest;
 
+# Change the ip-address in the .env file 
+
 # Run the bls-scraper.py
 python3 bls_scraper.py
 

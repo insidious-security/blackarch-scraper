@@ -1,0 +1,5 @@
+psycopg2-binary
+fastapi
+python-dotenv
+BeautifulSoup4
+uvicorn

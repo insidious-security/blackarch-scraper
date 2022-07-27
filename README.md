@@ -6,7 +6,7 @@
 </p>
 
 This project scrapes all available tools, versions and descriptions from the blackarch.org/tools.html overview and inserts this data in a docker postgresql database.
-You'll need to have [Docker](https://www.docker.com/) installed in order for this to wortk.
+You'll need to have [Docker](https://www.docker.com/) installed in order for this to work.
 
 The FastAPI can be used as an application backend to serve data in json format.
 

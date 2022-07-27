@@ -12,7 +12,7 @@ The FastAPI can be used as an application backend to serve data in json format.
 ## Usage
 ```bash
 # Clone this repository
-git clone http://raptor/sidious/blackarch-scraper.git
+git clone https://github.com/insidious-security/blackarch-scraper.git
 
 # Install the python requirements:
 sudo pip3 install -r requirements.txt

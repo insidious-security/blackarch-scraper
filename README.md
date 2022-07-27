@@ -36,5 +36,5 @@ python3 bls_scraper.py
 uvicorn bls-api:app --reload --host 0.0.0.0
 
 # Test the api with curl
-curl http://10.0.0.196:8000/black/2107
+curl http://host_running_docker_ip:8000/black/2107
 ```
